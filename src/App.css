@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+#totalproduct{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: italic;
+font-size: large;
+font-weight: 600;
+background-color: #fff;
+width:max-content;
+margin: auto;
+padding: 2px;
+border-radius: 10px;
+margin-top: 10px;
+}
+
+
+
+
